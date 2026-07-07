@@ -1,10 +1,10 @@
 import wave from "../assets/wave.png"
 import img1 from "../assets/listenm1.png"
-import img2 from "../assets/listitem2.png"
+import img2 from "../assets/Listitem2.png"
 import img3 from "../assets/listem3.png"
-import img4 from "../assets/listitem4.png"
+import img4 from "../assets/Listitem4.png"
 import img5 from "../assets/listitem.png"
-import img6 from "../assets/listitem6.png"
+import img6 from "../assets/Listitem6.png"
 
 const Services = () => {
     const servicesData = {

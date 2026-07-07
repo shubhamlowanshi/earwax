@@ -6,7 +6,7 @@ import {
 import { RiTwitterXLine } from "react-icons/ri";
 
 import icon from "../assets/image1.png";
-import CTASection from "./CTASection";
+import CTASection from "./CTASEction";
 
 const Footer = () => {
   return (
