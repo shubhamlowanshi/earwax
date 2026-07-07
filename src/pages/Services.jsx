@@ -3,7 +3,7 @@ import img1 from "../assets/listenm1.png"
 import img2 from "../assets/Listitem2.png"
 import img3 from "../assets/listem3.png"
 import img4 from "../assets/Listitem4.png"
-import img5 from "../assets/listitem.png"
+import img5 from "../assets/Listitem.png"
 import img6 from "../assets/Listitem6.png"
 
 const Services = () => {

@@ -1,7 +1,7 @@
 import sectionImage from "../assets/whychoose.png";
 import v from '../assets/Vector.png'
 import v1 from '../assets/vector1.png'
-import v2 from '../assets/vector2.png'
+import v2 from '../assets/Vector2.png'
 const WhyChooseUs = () => {
     const careFeatures = {
         badge: "WHY PATIENTS CHOOSE US",
